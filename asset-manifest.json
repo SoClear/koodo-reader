@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "./static/css/main.28ae5b83.css",
-    "main.js": "./static/js/main.07c3066d.js",
-    "static/media/icomoon.svg?dhgwex": "./static/media/icomoon.adc40a7c16fd37fdf372.svg",
-    "static/media/icomoon.eot?dhgwex": "./static/media/icomoon.1ccc61bf981e1d8052d0.eot",
-    "static/media/icomoon.woff?dhgwex": "./static/media/icomoon.f4cdbe4ad031696806a5.woff",
-    "static/media/icomoon.ttf?dhgwex": "./static/media/icomoon.07265ef087078c194d79.ttf",
+    "main.css": "./static/css/main.9adc9d3b.css",
+    "main.js": "./static/js/main.b4c65e8a.js",
+    "static/media/icomoon.svg?5we8z8": "./static/media/icomoon.a27c49e25e3b160b9077.svg",
+    "static/media/icomoon.eot?5we8z8": "./static/media/icomoon.db7937fbbfec5af306fb.eot",
+    "static/media/icomoon.woff?5we8z8": "./static/media/icomoon.0f33e89b836ceae52797.woff",
+    "static/media/icomoon.ttf?5we8z8": "./static/media/icomoon.b543d9cdaf8d6ebdd255.ttf",
     "index.html": "./index.html",
-    "main.28ae5b83.css.map": "./static/css/main.28ae5b83.css.map",
-    "main.07c3066d.js.map": "./static/js/main.07c3066d.js.map"
+    "main.9adc9d3b.css.map": "./static/css/main.9adc9d3b.css.map",
+    "main.b4c65e8a.js.map": "./static/js/main.b4c65e8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.28ae5b83.css",
-    "static/js/main.07c3066d.js"
+    "static/css/main.9adc9d3b.css",
+    "static/js/main.b4c65e8a.js"
   ]
 }
